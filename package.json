@@ -1,5 +1,5 @@
 {
-  "name": "@tyapi/utils",
+  "name": "tyapi-utils",
   "version": "1.0.0",
   "description": "Another Typescript NodeJS API Library for a RESTful backend. TyAPI Utils is a set of common scripts for reusable code.",
   "main": "dist/index.js",

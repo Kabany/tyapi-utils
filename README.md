@@ -1,4 +1,4 @@
-# @TyAPI/Utils
+# TyAPI Utils
 > Another Typescript NodeJS API Library for a RESTful backend. TyAPI Utils is a set of common scripts for reusable code.
 
 <!-- [![NPM Version][npm-image]][npm-url]
@@ -15,7 +15,7 @@ The package has utilities and validations for strings, numbers, dates, enumerati
 This is a Node.js module available through the npm registry. Installation is done using the npm install command:
 
 ```sh
-$ npm install @tyapi/utils
+$ npm install tyapi-utils
 ```
 
 ## Usage
