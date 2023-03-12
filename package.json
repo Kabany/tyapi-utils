@@ -1,16 +1,19 @@
 {
   "name": "@tyapi/utils",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Another Typescript NodeJS API Library for a RESTful backend. TyAPI Utils is a set of common scripts for reusable code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "ts-mocha test/*.spec.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "prepublish": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["api", "typescript", "template"],
   "license": "MIT",
   "author": "",
+  "repository": "https://github.com/Kabany/tyapi-utils.git",
+  "homepage": "https://github.com/Kabany/tyapi-utils.git",
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/mocha": "^10.0.1",
